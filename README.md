@@ -28,7 +28,7 @@
 ```Python
 from workingcal import get_working_calendar, save_working_calendar
 
-data = get_working_calendar(input_year=2022)
+data = get_working_calendar(input_year=2023)
 save_working_calendar(data=data, path='data')
 ```
 
