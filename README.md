@@ -40,19 +40,19 @@ save_working_calendar(data=data, path='data')
 ```
 
 ```bash
-# Календарь 2015 и 2022 года
-> python3 main.py --years 2015 2022
+# Календарь 2010 и 2023 года
+> python3 main.py --years 2010 2023
 ```
 
 ```bash
 # Календари за период с 2010 по 2022 год
-> python3 main.py --range 2010 2022
+> python3 main.py --range 2010 2023
 ```
 
 ```bash
 # Дополнительно: можно указать папку для скачивания.
 # По умолчанию всегда создается папка "data"
-> python3 main.py --range 2010 2022 --path your_folder
+> python3 main.py --range 2010 2023 --path your_folder
 ```
 
 
